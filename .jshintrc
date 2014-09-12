@@ -1,0 +1,19 @@
+{
+    "curly": true,
+    "eqeqeq": false,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "boss": true,
+    "eqnull": true,
+    "node": true,
+    "validthis": true,
+    "globals": {
+        "Handlebars": true,
+        "define": true,
+        "require": true
+    }
+}

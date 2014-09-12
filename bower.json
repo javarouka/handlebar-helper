@@ -1,0 +1,28 @@
+{
+  "name": "HandlebarHelpers",
+  "version": "0.0.1",
+  "authors": [
+    "javarouka(이항희) <javarouka@coupang.com>"
+  ],
+  "keywords": [
+    "handlebars"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "~1.15.0"
+  },
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "handlebars": "~2.0.0",
+    "jquery": "~2.1.1",
+    "moment": "~2.8.3"
+  }
+}
